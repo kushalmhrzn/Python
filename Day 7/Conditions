@@ -1,0 +1,13 @@
+Conditionals
+- in python, if statment is how you perform this sort of decision-making.
+
+
+-if statement
+    if<expr>:
+        <statement>
+    
+    #here if<expr> is an expression evaluated in a boolean context,
+            <statement> is a valid python statement, which must be indented.
+        Note: here the colon(:) following<expr> is a must requried.
+
+  
