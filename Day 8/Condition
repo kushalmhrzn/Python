@@ -1,0 +1,8 @@
+Condition:
+    - ifstatement is how you perform this sort of decision-making. it allows for onditional execution of statement or group of statements based on the value of an expression<expr>
+
+    -syntax
+        -if expression
+            Statement
+        else 
+            Statement
