@@ -1,0 +1,18 @@
+loops:
+    -are used to execute a block of code repeatedly.
+    -while is a Python keyword used to initiate a loop that repeats a block of code as long as a condition is true.
+    -A while loop works by evaluating a condition at the start of each iteration. If the condition is true, then the loop executes. Otherwise, it terminates.
+    -while loops are useful when the number of iterations is unknown, such as waiting for a condition to change or continuously processing user input.
+    -while True in Python creates an infinite loop that continues until a break statement or external interruption occurs.
+    -Python lacks a built-in do-while loop, but you can emulate it using a while True loop with a break statement for conditional termination.
+
+-syntax:
+    while condition:
+        <body>
+    #while is the keyword that initiates the loop header.
+    #condition is an expression evaluated for truthiness that defines the exit condition.
+    #<body> consists of one or more statements to execute in each iteration.
+
+
+-What f-strings do:
+    They let you insert variables directly into strings using curly braces {}.
